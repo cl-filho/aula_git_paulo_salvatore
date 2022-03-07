@@ -1,2 +1,0 @@
-Conteúdo do arquivo
-Aula  de Git
